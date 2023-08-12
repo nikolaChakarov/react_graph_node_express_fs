@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1691866969781,
+		"title": "first book",
+		"description": "some text...",
+		"price": "1.11"
+	},
+	{
+		"id": 1691866984885,
+		"title": "second title updated",
+		"description": "updated description...",
+		"price": "7.77"
+	}
+]
